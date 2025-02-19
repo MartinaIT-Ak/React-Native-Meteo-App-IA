@@ -1,10 +1,6 @@
 # React-Native-Meteo-App-IA
 
-Objectif : Créer une application de prévisions météo par l'IA
-
- > Utiliser l’API Openweathermap pour afficher la météo du jour et les prévisions météo
-Le rendu se fera sous la forme d'un lien vers un repository GitHub. Tout rendu sous une autre forme ne sera pas corrigé. Tout rendu en retard ne sera pas corrigé
-
+> Objectif : Créer une application de prévisions météo par l'IA
 
 ## Step 1
 
